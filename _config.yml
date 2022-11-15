@@ -29,6 +29,7 @@ logo                     : "/assets/images/logo.png"
 masthead_title           : #""
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
+search                   : true
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
