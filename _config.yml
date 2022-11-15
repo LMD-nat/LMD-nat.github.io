@@ -19,7 +19,6 @@ locale                   : "en-US"
 title                    : "CONSTELLATIONS"
 title_separator          : "-"
 subtitle                 : "A Living Lab at the CIUSSS Chaudière-Appalaches"
-avatar                   : "/assets/images/logo.png"
 name                     : "Supervised by Dr. Patrick Archambault"
 description              : "An online ressource for participants and their loved ones."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -30,7 +29,6 @@ logo                     : ""
 masthead_title           : #""
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
-search                   : true
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
@@ -107,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "The Living Lab"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/logo.png"
   bio              : "Ressources for participants and their caregivers"
   location         : "Lévis, Québec"
   email            : "recherche.p.archambault.cisssca@ssss.gouv.qc.ca"
