@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 # Site Settings
 locale                   : "en-US"
 title                    : "CONSTELLATIONS"
-title_separator          : "-"
+title_separator          : "|"
 subtitle                 : "A Living Lab at the CIUSSS Chaudière-Appalaches"
 name                     : "Supervised by Dr. Patrick Archambault"
 description              : "An online ressource for participants and their loved ones."
