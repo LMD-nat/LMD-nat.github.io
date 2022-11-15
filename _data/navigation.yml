@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
+  - title: "About the Lab"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Our team"
+    url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Ongoing projects"
+    url: /year-archive/
+  - title: "Publications"
+    url: "https://pubmed.ncbi.nlm.nih.gov/?sort=pubdate&size=50&term=Archambault+P&cauthor_id=36253075"
   # - title: "Sitemap"
   #   url: /sitemap/
