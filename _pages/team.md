@@ -17,3 +17,4 @@ gallery:
     alt: "placeholder image 3"
     title: "Kassim Said-Abasse, PhD"
 ---
+{% include gallery caption="Here are some team members!" %}
