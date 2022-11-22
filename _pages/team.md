@@ -6,7 +6,7 @@ hidden: true
 header:
   overlay_color: "#425dc2"
 excerpt: >
-  Meet the team! <br /> 
+  Here are a few of our awesome team members! <br /> 
 
 feature_row:
 
