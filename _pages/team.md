@@ -15,6 +15,8 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: ".btn--light-outline"
+    
+ ---   
 
   - image_path: /assets/images/teal.png
     title: "Martyne Audet, MSc"
