@@ -8,13 +8,12 @@ header:
 
 feature_row:
 
-  - image_path: <a href="https://example.com" target="_blank">
-
-![Martyne](/assets/images/teal.png)
-
-</a>
+  - image_path: /assets/images/teal.png
     title: "Martyne Audet, MSc"
     excerpt: "Martyne handles all the day to day stuff."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: ".btn--light-outline"
 
   - image_path: /assets/images/steel.png
     title: "Patrick Archambault, MD, MSc"
