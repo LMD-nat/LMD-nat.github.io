@@ -16,8 +16,6 @@ feature_row:
     btn_label: "Read More"
     btn_class: ".btn--light-outline"
 
-feature_row:
-
   - image_path: /assets/images/teal.png
     title: "Martyne Audet, MSc"
     excerpt: "Martyne handles all the day to day stuff."
@@ -40,5 +38,4 @@ feature_row:
     btn_class: ".btn--light-outline"
 ---
 
-{% include feature_row %}
 {% include feature_row %}
