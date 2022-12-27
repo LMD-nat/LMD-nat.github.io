@@ -6,13 +6,11 @@ hidden: true
 header:
   overlay_color: "#425dc2"
 
-feature_row:
+feature_row_left:
 
   - image_path: /assets/images/steel.png
     title: "Patrick Archambault, MD, MSc"
     excerpt: "Patrick is the boss. What he says goes!"
-    type: "left"
-    id: "row1"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: ".btn--light-outline"
@@ -22,7 +20,6 @@ feature_row:
   - image_path: /assets/images/teal.png
     title: "Martyne Audet, MSc"
     excerpt: "Martyne handles all the day to day stuff."
-    id: "row2"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: ".btn--light-outline"
@@ -41,6 +38,5 @@ feature_row:
     btn_label: "Read More"
     btn_class: ".btn--light-outline"
 ---
-
-{% include feature_row id="row1" %}
-{% include feature_row id="row2" %}
+{% include feature_row id="feature_row_left" type="left" %}
+{% include feature_row %}
