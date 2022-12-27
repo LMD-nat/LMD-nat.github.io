@@ -15,6 +15,3 @@ header:
 In this blog post I want to collect some of the lessons that I've learned over
 the years building machine learing systems. 
 
-## Lessons learned
-
-1. [Link to test]({% post_url 2011-12-31-test.md %})
