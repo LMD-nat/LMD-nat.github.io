@@ -8,7 +8,11 @@ header:
 
 feature_row:
 
-  - image_path: /assets/images/teal.png
+  - image_path: <a href="https://example.com" target="_blank">
+
+![Martyne](/assets/images/teal.png)
+
+</a>
     title: "Martyne Audet, MSc"
     excerpt: "Martyne handles all the day to day stuff."
 
