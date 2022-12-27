@@ -10,7 +10,7 @@ excerpt: >
 
 feature_row:
 
-  - image_path: /assets/images/teal.png
+  - image_path: [<img src=/assets/images/teal.png>](http://google.com.au/)
     title: "Martyne Audet, MSc"
     excerpt: "Martyne handles all the day to day stuff."
 
