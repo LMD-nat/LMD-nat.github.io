@@ -20,7 +20,11 @@ feature_row:
 
   - image_path: /assets/images/navy.png
     title: "Kassim Said-Abasse, PhD"
-    excerpt: "Kassim writes a lot of papers."   
+    excerpt: "Kassim writes a lot of papers."  
+    
+  - image_path: /assets/images/teal.png
+    title: "Nathalie Germain, BA"
+    excerpt: "Nathalie programs instead of writing her thesis."   
 ---
 
 {% include feature_row %}
