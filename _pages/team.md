@@ -8,6 +8,16 @@ header:
 
 feature_row:
 
+  - image_path: /assets/images/steel.png
+    title: "Patrick Archambault, MD, MSc"
+    excerpt: "Patrick is the boss. What he says goes!"
+    type: "left"
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: ".btn--light-outline"
+
+feature_row:
+
   - image_path: /assets/images/teal.png
     title: "Martyne Audet, MSc"
     excerpt: "Martyne handles all the day to day stuff."
@@ -15,17 +25,20 @@ feature_row:
     btn_label: "Read More"
     btn_class: ".btn--light-outline"
 
-  - image_path: /assets/images/steel.png
-    title: "Patrick Archambault, MD, MSc"
-    excerpt: "Patrick is the boss. What he says goes!"
-
   - image_path: /assets/images/navy.png
     title: "Kassim Said-Abasse, PhD"
-    excerpt: "Kassim writes a lot of papers."  
+    excerpt: "Kassim writes a lot of papers."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: ".btn--light-outline"
     
   - image_path: /assets/images/teal.png
     title: "Nathalie Germain, BA"
-    excerpt: "Nathalie programs instead of writing her thesis."   
+    excerpt: "Nathalie programs instead of writing her thesis."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: ".btn--light-outline"
 ---
 
+{% include feature_row %}
 {% include feature_row %}
