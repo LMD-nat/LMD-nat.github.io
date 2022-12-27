@@ -5,12 +5,10 @@ permalink: /team/
 hidden: true
 header:
   overlay_color: "#425dc2"
-excerpt: >
-  Here are a few of our awesome team members! <br /> 
 
 feature_row:
 
-  - image_path: [<img src=/assets/images/teal.png>](http://google.com.au/)
+  - image_path: /assets/images/teal.png
     title: "Martyne Audet, MSc"
     excerpt: "Martyne handles all the day to day stuff."
 
