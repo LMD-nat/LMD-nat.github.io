@@ -8,7 +8,7 @@ header:
 
 feature_row:
 
-  - image_path: /assets/images/teal.png)(https://www.flipkart.com/){:target="_blank"}
+  - image_path: /assets/images/teal.png(https://www.flipkart.com/){:target="_blank"}
     title: "Martyne Audet, MSc"
     excerpt: "Martyne handles all the day to day stuff."
 
