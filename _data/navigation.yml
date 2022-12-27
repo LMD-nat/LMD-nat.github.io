@@ -5,7 +5,7 @@ main:
   - title: "Our team"
     url: /team/
   - title: "News"
-    url: /posts/
+    url: /posts-grid/
   - title: "Publications"
     url: "https://pubmed.ncbi.nlm.nih.gov/?sort=pubdate&size=50&term=Archambault+P&cauthor_id=36253075"
   # - title: "Sitemap"
