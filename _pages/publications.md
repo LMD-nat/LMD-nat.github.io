@@ -5,7 +5,7 @@ permalink: /publications/
 toc: true
 sidebar:
   - title: "Bibliography"
-    text: "Lab member authors are outlined in **bold**. Need a copy? The link to each record in PubMed is provided."
+    text: "Lab member authors are outlined in **bold**. <br> Need a copy? The link to each record in PubMed is provided."
 ---
 
 # Peer-reviewed articles
