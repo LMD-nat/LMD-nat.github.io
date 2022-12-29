@@ -1,6 +1,7 @@
 ---
 title: "Academic Publications"
 permalink: /publications/
+author_profile: true
 toc: true
 sidebar:
   - title: "Publications by year"
