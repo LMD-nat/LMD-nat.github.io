@@ -1,12 +1,12 @@
 ---
-title: "Bibliography"
+title: " "
 layout: single
 permalink: /publications/
 toc: true
+sidebar:
+  - title: "Bibliography"
+    text: "Lab member authors are outlined in **bold**. Need a copy? The link to each record in PubMed is provided."
 ---
-
-All items can be accessed via PubMed or via PDF.
-Lab member authors are outlined in **bold**.
 
 # Peer-reviewed articles
 
