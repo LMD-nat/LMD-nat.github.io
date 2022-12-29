@@ -3,7 +3,7 @@ title: "Nathalie Germain"
 layout: default
 header:
   overlay_color: "#3390FF"
-permalink: /bios/:nathalie-germain
+permalink: /nathalie.germain.md
 author_profile: true
 
 
