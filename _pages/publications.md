@@ -1,11 +1,10 @@
 ---
-title: "Academic Publications"
+title: "Bibliography"
 layout: single
 permalink: /publications/
-author_profile: true
 toc: true
 sidebar:
-  - title: "Publications by year"
+  - title: "All items can be accessed via PubMed or in pdf format."
     text: "Lab member authors are outlined in **bold**."
 ---
 
