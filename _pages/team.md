@@ -34,7 +34,7 @@ feature_row:
   - image_path: /assets/images/teal.png
     title: "Nathalie Germain, BA"
     excerpt: "Nathalie programs instead of writing her thesis."
-    url: "#/bios/:nathalie-germain"
+    url: /nathalie-germain/
     btn_label: "Read More"
     btn_class: ".btn--light-outline"
 ---
