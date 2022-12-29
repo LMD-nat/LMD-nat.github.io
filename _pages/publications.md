@@ -11,9 +11,11 @@ sidebar:
 # Peer-reviewed articles
 
 ## 2022
-
+<font size="4"> 
+  
 Ouellet S, Galliani MC, Gélinas C, Fontaine G, **Archambault P**, Mercier É, et al. Strategies to improve the quality of nurse triage in emergency departments: A realist review protocol. *Nurs Open*. 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36527423/)
-
+  
+</font>   
 
 ## 2021
 
