@@ -12,11 +12,11 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "LMD-nat/LMD-nat.github.io"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
+minimal_mistakes_skin    : "const" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default", "const" is a custom skin
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Archambault Lab"
+title                    : "Dr. Patrick Archambault's Lab"
 title_separator          : " "
 subtitle                 : "A Research Laboratory at the CIUSSS Chaudière-Appalaches"
 name                     : "Supervised by Dr. Patrick Archambault"
