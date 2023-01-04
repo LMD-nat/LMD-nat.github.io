@@ -7,10 +7,10 @@ $background-color: #eeeeee !default;
 $text-color: #222831 !default;
 $muted-text-color: #393e46 !default;
 $primary-color: #082f4c !default;
-$border-color: mix(#fff, #393e46, 75%) !default;
+$border-color: mix(#fff, #082f4c, 75%) !default;
 $footer-background-color: #73cabe !default;
 $link-color: #0f685c !default;
-$masthead-link-color: $footer-background-color !default;
+$masthead-link-color: $link-color !default;
 $masthead-link-color-hover: $text-color !default;
 $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 
